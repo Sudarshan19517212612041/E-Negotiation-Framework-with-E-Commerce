@@ -1,0 +1,18 @@
+table
+{
+	background-color: rgba(0,0,0,0.5);
+	width: 60%;
+	margin-top: 15px;
+	margin-left: 60px;
+	font-size: 20px;
+	border-spacing: 1px;
+	border-color: white;
+}
+button
+{
+	height: 40px;
+	width: 100%;
+	font-size: 20px;
+	border-radius: 50%;
+	border-color: #DC143C;
+}

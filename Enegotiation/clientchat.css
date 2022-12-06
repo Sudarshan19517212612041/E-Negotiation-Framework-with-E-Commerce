@@ -1,0 +1,58 @@
+*
+{
+	padding: 0px;
+	margin:0;
+	box-sizing:border-box;
+}
+h4
+{
+ text-align:center;
+ margin-top: 2%;
+margin-left: 8%;
+ font-size:40px;
+	color:white;
+
+}
+h4:hover
+{
+	color:rgba(0,0,0,0.5);
+}
+button
+{
+	width: 20%;
+	background-color:none;
+	border:3px solid #DC143C;
+	color:rgba(0,0,0,0.5);
+	font-color:red;
+	padding: 5px;
+	font-size: 20px;
+	cursor: pointer;
+	margin:12px 0;
+	margin-left:12%;
+}
+table
+{
+	align-self:center;
+	margin-top:2%;
+	margin-left:10%;
+	text-align:center;
+	border-spacing:solid;
+	width:35%;
+	height:100px;
+	background-image: linear-gradient(to right,#f0f0f0,#f0f0f0);
+	border: 1px solid black;
+	 font-size:25px;
+	
+}
+input
+{
+	width:70%;
+	height:70%;
+	border-color: #DC143C;
+}
+select
+{
+	width:60%;
+	height:60%;
+	border-color: #DC143C;
+}
